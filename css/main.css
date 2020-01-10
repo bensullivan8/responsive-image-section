@@ -33,6 +33,7 @@ body {
 
 .img-flex {
   width: 100%;
+  display: flex;
 }
 
 .content {
@@ -97,7 +98,6 @@ p {
 
   html {
     font-size: 130%;
-    line-height: 1.5;
   }
 
 }
